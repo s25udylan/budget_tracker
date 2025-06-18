@@ -1,0 +1,21 @@
+{
+    "accounts": [
+        {
+            "name": "My Wallet",
+            "balance": 0
+        }
+    ],
+    "categories": [
+        "Food",
+        "Transport",
+        "Shopping",
+        "Bills",
+        "Misc"
+    ],
+    "budgets": {
+        "Food": 500
+    },
+    "transactions": [],
+    "loans": [],
+    "theme": "light"
+}
